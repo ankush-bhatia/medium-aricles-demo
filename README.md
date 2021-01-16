@@ -9,7 +9,7 @@ I hope these will be helpful for you to understand the article in a better way t
 
 Contributions to the ideas and implementation of the Demo are welcomed and encouraged! 
 Please see the [Contributing Guide](CONTRIBUTING.md).
-If you think this could be better, please [open an issue](https://github.com/ankush-bhatia/medium-articles-demo/issues/new)!
+If you think this could be better, please [open an issue](https://github.com/ankush-bhatia/medium-articles-demo/issues/new/choose)!
 
 Please note that all interactions in [@ankush-bhatia](https://github.com/ankush-bhatia) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
 
